@@ -3,7 +3,7 @@
 [![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](#)
 [![Twitter: PiyushSthr](https://img.shields.io/twitter/follow/PiyushSthr.svg?style=social)](https://twitter.com/PiyushSthr)
 
-> Bot that generate Dynam
+> A bot that generates images from Quotes Api and posts it to Twitter.
 
 ## Install
 
@@ -15,12 +15,6 @@ npm install
 
 ```sh
 node index.js
-```
-
-## Run tests
-
-```sh
-npm run test
 ```
 
 ## Author
