@@ -6,10 +6,10 @@ const drawMultilineText = require('canvas-multiline-text')
 
 
 var T = new twit({
-    consumer_key:         'KrIAnHrkAfbV1cvzJ3fQ19kdG',//consumer_key
-    consumer_secret:      'aYRKjP54fuudUgtjvSbnZbwKQtnrzIozM5s3m7fBWOlucyORLa',//consumer_secret
-    access_token:         '842727113438326784-AIXtd60WI1Dcb68rLDKcNeuMCUvPEXE',//access_token
-    access_token_secret:  'dnjubTEPMEcU5r6aWTbBYlG03dIXX2SBKMBbz1oIICAJd',//access_token secret
+    consumer_key:         '/*Your Consumer Key*/',//consumer_key
+    consumer_secret:      '/*Your Consumer Secret*/',//consumer_secret
+    access_token:         '/*Your Access Token*/',//access_token
+    access_token_secret:  '/*Your Access Token Secret*/',//access_token secret
 })
 
 // Function for capitalizing the first word of the string
