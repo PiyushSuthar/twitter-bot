@@ -8,6 +8,8 @@
 ## Install
 
 ```sh
+git clone https://github.com/PiyushSuthar/twitter-bot.git
+cd twitter-bot
 npm install
 ```
 
