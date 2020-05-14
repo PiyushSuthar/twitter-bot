@@ -1,0 +1,21 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "A small and easy to use twitter bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "Twitter",
+    "Bot"
+  ],
+  "author": "Piyush Suthar",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "canvas-multiline-text": "^1.0.3",
+    "request": "^2.88.2",
+    "twit": "^2.2.11"
+  }
+}
