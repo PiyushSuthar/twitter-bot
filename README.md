@@ -5,6 +5,9 @@
 
 > A bot that generates images from Quotes Api and posts it to Twitter.
 
+## Demo Post
+![alt text](https://i.ibb.co/4FN9ggV/image.png)
+
 ## Install
 
 ```sh
